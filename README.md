@@ -30,7 +30,7 @@ Une application web qui récupère et affiche les articles de la une du journal 
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-nom/une_lemonde_laravel_react.git
+git clone https://github.com/creasitenet/lemonde_headlines_laravel_react.git
 cd une_lemonde_laravel_react
 ```
 
