@@ -31,7 +31,7 @@ Une application web qui récupère et affiche les articles de la une du journal 
 
 ```bash
 git clone https://github.com/creasitenet/lemonde_headlines_laravel_react.git
-cd une_lemonde_laravel_react
+cd lemonde_headlines_laravel_react
 ```
 
 ### 2. Installer les dépendances backend
